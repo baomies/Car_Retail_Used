@@ -1,0 +1,1 @@
+untuk hasil dari file ini ada di folder Postgresql Egress dbeaver

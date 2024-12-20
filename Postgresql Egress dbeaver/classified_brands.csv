@@ -1,0 +1,40 @@
+"Brand","Frequency","Percentage","Classification","SortOrder"
+Maruti Suzuki,2720,28.39,High Frequency,1
+Hyundai,1529,15.96,High Frequency,1
+Honda,802,8.37,Medium Frequency,2
+Toyota,777,8.11,Medium Frequency,2
+Mahindra,560,5.84,Medium Frequency,2
+Mercedes-Benz,402,4.2,Low Frequency,3
+Tata,389,4.06,Low Frequency,3
+BMW,342,3.57,Low Frequency,3
+Volkswagen,318,3.32,Low Frequency,3
+Audi,264,2.76,Low Frequency,3
+Ford,245,2.56,Low Frequency,3
+Renault,240,2.5,Low Frequency,3
+Skoda,183,1.91,Low Frequency,3
+Kia,161,1.68,Low Frequency,3
+Chevrolet,89,0.93,Low Frequency,3
+MG,80,0.83,Low Frequency,3
+Nissan,75,0.78,Low Frequency,3
+Jeep,74,0.77,Low Frequency,3
+Land Rover,71,0.74,Low Frequency,3
+Volvo,48,0.5,Low Frequency,3
+Mini,41,0.43,Low Frequency,3
+Jaguar,34,0.35,Low Frequency,3
+Porsche,24,0.25,Low Frequency,3
+Datsun,22,0.23,Low Frequency,3
+Fiat,22,0.23,Low Frequency,3
+Lexus,20,0.21,Low Frequency,3
+Mitsubishi,18,0.19,Low Frequency,3
+Isuzu,10,0.1,Low Frequency,3
+Force,6,0.06,Low Frequency,3
+Ambassador,3,0.03,Low Frequency,3
+Rolls-Royce,2,0.02,Low Frequency,3
+Ssangyong,2,0.02,Low Frequency,3
+Bajaj,2,0.02,Low Frequency,3
+Opel,2,0.02,Low Frequency,3
+ICML,1,0.01,Low Frequency,3
+Maserati,1,0.01,Low Frequency,3
+Ashok,1,0.01,Low Frequency,3
+Bentley,1,0.01,Low Frequency,3
+Aston Martin,1,0.01,Low Frequency,3
